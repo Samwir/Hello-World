@@ -1,0 +1,8 @@
+public class DisplayTwoLines
+{
+  public static void main(String[0] args)
+  {
+    System.out.print("Computers, computers everywhere";
+    System.out.print("\n as far as I can see");
+}
+}
